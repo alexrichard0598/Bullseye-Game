@@ -13,6 +13,7 @@
 		BF2C32E725C08DDA006CEDDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF2C32E525C08DDA006CEDDF /* Main.storyboard */; };
 		BF2C32E925C08DDD006CEDDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF2C32E825C08DDD006CEDDF /* Assets.xcassets */; };
 		BF2C32EC25C08DDD006CEDDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF2C32EA25C08DDD006CEDDF /* LaunchScreen.storyboard */; };
+		BF2C32F525C09C01006CEDDF /* 720px-WA_80_cm_archery_target.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = BF2C32F425C09C01006CEDDF /* 720px-WA_80_cm_archery_target.svg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BF2C32E825C08DDD006CEDDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF2C32EB25C08DDD006CEDDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF2C32ED25C08DDD006CEDDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF2C32F425C09C01006CEDDF /* 720px-WA_80_cm_archery_target.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "720px-WA_80_cm_archery_target.svg.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BF2C32E325C08DDA006CEDDF /* ViewController.swift */,
 				BF2C32E525C08DDA006CEDDF /* Main.storyboard */,
 				BF2C32E825C08DDD006CEDDF /* Assets.xcassets */,
+				BF2C32F425C09C01006CEDDF /* 720px-WA_80_cm_archery_target.svg.png */,
 				BF2C32EA25C08DDD006CEDDF /* LaunchScreen.storyboard */,
 				BF2C32ED25C08DDD006CEDDF /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF2C32EC25C08DDD006CEDDF /* LaunchScreen.storyboard in Resources */,
+				BF2C32F525C09C01006CEDDF /* 720px-WA_80_cm_archery_target.svg.png in Resources */,
 				BF2C32E925C08DDD006CEDDF /* Assets.xcassets in Resources */,
 				BF2C32E725C08DDA006CEDDF /* Main.storyboard in Resources */,
 			);
